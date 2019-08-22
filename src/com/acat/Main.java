@@ -6,5 +6,6 @@ public class Main {
         System.out.println("git is a free software");
         System.out.println("git has a mutable index called stage");
         System.out.println("git tracks change of files");
+        System.out.println("create a new branch is quick");
     }
 }
